@@ -1,6 +1,7 @@
 # Портфолио
 ## О себе
-![аватар](https://e7.pngegg.com/pngimages/552/861/png-clipart-computer-icons-avatar-avatar-computer-icons-avatar.png)
+![аватар](https://ati.co.tz/wp/wp-content/uploads/2020/05/no-pic-round.png)
+
 Информация об образовании и т.д.
 
 ## Проекты
